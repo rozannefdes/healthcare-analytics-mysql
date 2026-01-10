@@ -11,7 +11,7 @@ The SQL queries executed on this database provide comprehensive insights into st
 
 # 1.⁠ ⁠Data Overview & Basic Statistics
 	- The dataset was explored to understand overall data volume, reporting periods, and completeness.
-  - Queries included total record counts, numeric versus non-numeric response coverage, and date range validation.
+	- Queries included total record counts, numeric versus non-numeric response coverage, and date range validation.
 	- Initial checks ensured data integrity before analytical modeling.
 
   
@@ -60,7 +60,7 @@ The SQL queries executed on this database provide comprehensive insights into st
 
 # Dataset Columns – Description
 
-Each column in the dataset represents a specific attribute related to patient experience reporting at the state level, making it suitable for healthcare analytics and performance evaluation tasks. Here's an explanation of each column in the dataset. 
+# Each column in the dataset represents a specific attribute related to patient experience reporting at the state level, making it suitable for healthcare analytics and performance evaluation tasks. Here's an explanation of each column in the dataset. 
 
 	1.	State
 Represents the U.S. state or territory for which survey results are reported.
