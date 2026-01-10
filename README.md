@@ -1,5 +1,5 @@
 # Healthcare-analytics-mysql
-SQL – Data Analysis – Healthcare Patient Experience (State-Level)
+SQL – Data Analysis – Healthcare Patient Experience
 
 This project performs SQL-based data analysis on a healthcare patient experience dataset published by the Centers for Medicare & Medicaid Services (CMS). The dataset captures standardized survey responses that reflect how patients rate different aspects of hospital care across U.S. states.
 
