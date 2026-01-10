@@ -62,14 +62,14 @@ The SQL queries executed on this database provide comprehensive insights into st
 
 # Each column in the dataset represents a specific attribute related to patient experience reporting at the state level, making it suitable for healthcare analytics and performance evaluation tasks. Here's an explanation of each column in the dataset. 
 
-	# 1.	State: Represents the U.S. state or territory for which survey results are reported.
-	# 2.	Measure ID: A unique identifier assigned to each patient experience survey measure.
-	# 3.	Survey Question: Describes the specific patient experience question being measured.
-	# 4.	Answer Description: Indicates the response category associated with the survey question.
-	# 5.	Answer Percent: The percentage value representing patient responses for a given measure and state. This field may contain numeric values or “Not Available.”
-	# 6.	Footnote: Provides additional context or reporting notes related to the data.
-	# 7.	Start Date: The beginning date of the reporting period for the survey results.
-	# 8.	End Date: The ending date of the reporting period for the survey results.
+	 1.	State: Represents the U.S. state or territory for which survey results are reported.
+	 2.	Measure ID: A unique identifier assigned to each patient experience survey measure.
+	 3.	Survey Question: Describes the specific patient experience question being measured.
+	 4.	Answer Description: Indicates the response category associated with the survey question.
+	 5.	Answer Percent: The percentage value representing patient responses for a given measure and state. This field may contain numeric values or “Not Available.”
+	 6.	Footnote: Provides additional context or reporting notes related to the data.
+	 7.	Start Date: The beginning date of the reporting period for the survey results.
+	 8.	End Date: The ending date of the reporting period for the survey results.
 
 
 
