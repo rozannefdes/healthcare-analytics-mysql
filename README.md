@@ -71,6 +71,31 @@ The SQL queries executed on this database provide comprehensive insights into st
 	 7.	Start Date: The beginning date of the reporting period for the survey results.
 	 8.	End Date: The ending date of the reporting period for the survey results.
 
+# How to Run the Project
+
+# Step 1: Clone or Download the Repository
+	•	Clone this repository using Git, or download it as a ZIP file from GitHub.
+
+# Step 2: Set Up the Database Environment
+	•	Install MySQL 8.0 or higher.
+	•	Open MySQL Workbench and create a new database connection.
+
+# Step 3: Import the Dataset
+	•	Download the dataset from the CMS website.
+	•	Use the MySQL Workbench Table Data Import Wizard to import the CSV file into the staging table defined in the SQL script.
+
+# Step 4: Run the SQL Script
+	•	Open the SQL file located in the sql/ folder.
+	•	Execute the script in sequence to:
+	•	Create the database and tables
+	•	Load dimension and fact tables
+	•	Perform data validation checks
+	•	Run analytical queries
+
+# Step 5: Review the Results
+	•	Verify row counts and validation outputs.
+	•	Review query results to analyze state-level performance, rankings, and data quality patterns.
+
 
 
 # Summary
